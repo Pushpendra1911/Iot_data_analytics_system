@@ -1,0 +1,6 @@
+{
+    "host": "localhost",
+    "port": 27017,
+    "database": "iot_database",
+    "collection": "iot_collection"
+}
